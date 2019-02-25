@@ -3,6 +3,10 @@ Mega-Sena
 
 The Mega-Sena is the highest paying lottery in South America and all drawing results are publicly available on the [official website](http://loterias.caixa.gov.br/wps/portal/loterias/landing/megasena/).
 
+<center>
+![Ballot](./ballot.jpg)
+</center>
+
 
 ## Goals
 
@@ -13,6 +17,10 @@ The goals of this project are:
 * Perform statistical analysis on the dataset `(2 - Statistical Analysis.ipynb)`;
 
 * Implement an interactive plot in a Jupyter notebook`(3 - Interactive Plot.ipynb)`.
+
+<center>
+![Interactive Plot](./interactive_plot.gif)
+</center>
 
 
 ## Data Sources
