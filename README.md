@@ -30,6 +30,8 @@ The goals of this project are:
     </a>
 </p>
 
+This project was last updated on 2019-04-16, bringing higher resolution plots and the most recent dataset.
+
 
 ## Data Sources
 
@@ -38,9 +40,20 @@ The goals of this project are:
 
 ## Installation
 
-To create a new virtual environment with Anaconda and the `requirements.txt` file:
+To create a new virtual environment with Anaconda:
 
-    $ conda create --name <env> --file requirements.txt
+    $ conda create --name <VENV_NAME> jupyter lxml matplotlib numpy pandas seaborn
+
+
+## Running
+
+First open a terminal on the project folder and switch the Anaconda virtual environment:
+
+    $ conda activate <VENV_NAME>
+
+Then run the Jupyter notebook server:
+
+    $ jupyter notebook
 
 
 # Author
